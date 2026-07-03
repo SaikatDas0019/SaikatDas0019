@@ -39,6 +39,7 @@ Welcome to my GitHub profile! I am a passionate **Data Analyst, Python Developer
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikat-das-4bbb38412/)
+[![Streamlit Profile](https://img.shields.io/badge/Streamlit_Profile-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)](https://share.streamlit.io/user/saikatdas0019)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasbabu938207@gmail.com)
 
 **📞 Phone:** +91 7001044760
